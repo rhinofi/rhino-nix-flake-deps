@@ -8,7 +8,7 @@
     flake-parts.url = "github:hercules-ci/flake-parts";
     systems.url = "github:nix-systems/default";
     process-compose-flake.url = "github:Platonic-Systems/process-compose-flake";
-    services-flake.url = "github:juspay/services-flake";
+    services-flake.url = "github:rhinofi/services-flake/rhinofi";
     flake-compat = {
       url = "github:rhinofi/flake-compat/lock-file-overrides";
       flake = false;
