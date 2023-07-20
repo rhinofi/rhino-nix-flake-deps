@@ -71,15 +71,16 @@
     },
     "process-compose-flake": {
       "locked": {
-        "lastModified": 1689622628,
-        "narHash": "sha256-V2FEzYpjBYed5Sf6zngbyk7Z0mClxvSu8jawRs0fvRE=",
-        "owner": "Platonic-Systems",
+        "lastModified": 1689869560,
+        "narHash": "sha256-yl0XYhU5O5IKPk8s3vTujRYiGtTMrz1HWIBqX2LJNMM=",
+        "owner": "rhinofi",
         "repo": "process-compose-flake",
-        "rev": "67949a2e1c720838e233d3e7397ccddd7c9d4188",
+        "rev": "332cf7a0416c20c38c37755e411b3b8293570c12",
         "type": "github"
       },
       "original": {
-        "owner": "Platonic-Systems",
+        "owner": "rhinofi",
+        "ref": "rhinofi",
         "repo": "process-compose-flake",
         "type": "github"
       }
@@ -96,11 +97,11 @@
     },
     "services-flake": {
       "locked": {
-        "lastModified": 1689751711,
-        "narHash": "sha256-bCFqI46te0+IquznRZG5IWJyijcCfUn6MTtsarGxiYM=",
+        "lastModified": 1689887115,
+        "narHash": "sha256-RLGiNl3OD6wvzPEyPRLTYWm/4/3VOGiwu+fh1qXqKQg=",
         "owner": "rhinofi",
         "repo": "services-flake",
-        "rev": "6f12ea61b40dca19612944b126a74f3dfc7c642f",
+        "rev": "d3c62fd3f9a763d403622fce9e1c98e6ef66ee5f",
         "type": "github"
       },
       "original": {

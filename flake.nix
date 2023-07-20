@@ -7,7 +7,7 @@
     nixpkgs.url = "github:nixos/nixpkgs/8e3fad82be64c06fbfb9fd43993aec9ef4623936";
     flake-parts.url = "github:hercules-ci/flake-parts";
     systems.url = "github:nix-systems/default";
-    process-compose-flake.url = "github:Platonic-Systems/process-compose-flake";
+    process-compose-flake.url = "github:rhinofi/process-compose-flake/rhinofi";
     services-flake.url = "github:rhinofi/services-flake/rhinofi";
     flake-compat = {
       url = "github:rhinofi/flake-compat/lock-file-overrides";
