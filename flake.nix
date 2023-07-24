@@ -1,5 +1,5 @@
 {
-  description = "rhinofi's flake-parts-deps";
+  description = "rhinofi's flake deps";
   inputs = {
     # NOTE: the specific url here doesn't matter as it will be overriden
     # using lockFileProcessorFunc passed to default.nix. This way the consumer
