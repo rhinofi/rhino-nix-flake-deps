@@ -11,7 +11,7 @@
     };
     systems.url = "github:nix-systems/default";
     process-compose-flake.url = "github:Platonic-Systems/process-compose-flake";
-    services-flake.url = "github:rhinofi/services-flake/0283d9c5fd3a7907a177ce0c369c8ff116d8c237";
+    services-flake.url = "github:juspay/services-flake";
     flake-compat = {
       url = "github:rhinofi/flake-compat/lock-file-overrides";
       flake = false;

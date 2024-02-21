@@ -82,16 +82,15 @@
     },
     "services-flake": {
       "locked": {
-        "lastModified": 1708533987,
+        "lastModified": 1708538816,
         "narHash": "sha256-1u8XPpC7TKJl9tSoc4Kt/JsWJpiRFkzlCNGBESxm4lQ=",
-        "owner": "rhinofi",
+        "owner": "juspay",
         "repo": "services-flake",
-        "rev": "ecce71e69e97d03aee2aa3d15a100e804738be15",
+        "rev": "f8cd3fbcb5c31456746b135b8eacb373499a44ae",
         "type": "github"
       },
       "original": {
-        "owner": "rhinofi",
-        "ref": "fix-postgres-superuser-issue",
+        "owner": "juspay",
         "repo": "services-flake",
         "type": "github"
       }
