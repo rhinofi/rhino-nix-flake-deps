@@ -83,16 +83,15 @@
     },
     "services-flake": {
       "locked": {
-        "lastModified": 1689887115,
-        "narHash": "sha256-RLGiNl3OD6wvzPEyPRLTYWm/4/3VOGiwu+fh1qXqKQg=",
-        "owner": "rhinofi",
+        "lastModified": 1708407362,
+        "narHash": "sha256-MtA8Q1XiJAeoUkjTH8jvYeW2JDG2M+amWHZLGZU1YBk=",
+        "owner": "juspay",
         "repo": "services-flake",
-        "rev": "d3c62fd3f9a763d403622fce9e1c98e6ef66ee5f",
+        "rev": "dafaeb048d0445ef87f3a29c114161168c095896",
         "type": "github"
       },
       "original": {
-        "owner": "rhinofi",
-        "ref": "rhinofi",
+        "owner": "juspay",
         "repo": "services-flake",
         "type": "github"
       }
