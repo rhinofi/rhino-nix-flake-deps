@@ -10,7 +10,7 @@
       inputs.nixpkgs-lib.follows = "nixpkgs-lib";
     };
     systems.url = "github:nix-systems/default";
-    process-compose-flake.url = "github:rhinofi/process-compose-flake/rhinofi";
+    process-compose-flake.url = "github:Platonic-Systems/process-compose-flake";
     services-flake.url = "github:juspay/services-flake";
     flake-compat = {
       url = "github:rhinofi/flake-compat/lock-file-overrides";
